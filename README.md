@@ -1,6 +1,7 @@
 ![github-header-image](https://github.com/user-attachments/assets/fc0b50f3-a5ee-4bd9-8da7-b05b1b124895)
 HELLO WORLD
 ---
+## About me
 Estudiante de programación actualmente cursando un bootcamp con Asociación Arrabal_F5, en programación y cloud AWS
 
 ## Habilidades técnicas
